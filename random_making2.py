@@ -6,4 +6,3 @@ Created on Tue Jan 29 18:55:27 2019
 import random
 
 print(random.sample(range(100),2))
-print("hello")
